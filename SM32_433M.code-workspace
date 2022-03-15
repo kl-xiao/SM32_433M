@@ -1,0 +1,43 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.json": "json",
+            ".eideignore": "ignore",
+            "sm2235.h": "c",
+            "sm1642.h": "c",
+            "sm32f030_gpio.h": "c",
+            "cmsis_os.h": "c",
+            "freertos.h": "c",
+            "freertosconfig.h": "c",
+            "exti.h": "c",
+            "sm32f030.h": "c",
+            "sm32f030_i2c.h": "c",
+            "cstdint": "cpp",
+            "pwm.h": "c",
+            "stdio.h": "c",
+            "cstdio": "c",
+            "uart.h": "c",
+            "key.h": "c",
+            "spi.h": "c",
+            "iic.h": "c",
+            "adc.h": "c",
+            "sm32f030_misc.h": "c",
+            "sm32f030_uart.h": "c",
+            "sm32f030_tim.h": "c",
+            "timer.h": "c",
+            "sm32f030_adc.h": "c",
+            "main.h": "c",
+            "sm32f030_iap.h": "c"
+        },
+        "C_Cpp.default.intelliSenseMode": "gcc-arm",
+        "files.autoGuessEncoding": true,
+        "C_Cpp.default.cppStandard": "c++14",
+        "C_Cpp.default.cStandard": "c99",
+        "EIDE.SerialPortMonitor.BaudRate": 115200
+    }
+}
